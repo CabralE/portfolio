@@ -43,12 +43,14 @@ ul {
     width: 500px;
     justify-content: space-around;
     font-size: 30px;
+    padding-right: 25px;
     
 }
 
 li {
     text-decoration: none;
     color: var(--logo-color);
+    padding-top: 15px;
 }
 
 h1 {
@@ -91,7 +93,7 @@ p {
     text-align: center;
     font-size: 30px;
     font-weight: 300;
-    padding-top: 5px;
+    padding-top: 12px;
     margin-top: 20px;
 }
 
@@ -110,6 +112,15 @@ p {
     background-color: black;
     padding-bottom: 200px;
 
+}
+
+.sub-section-tech {
+    display: flex;
+    flex-direction: column;
+}
+
+#technical-skills {
+    padding-top: 30px;
 }
 
 .socials:first-child {
