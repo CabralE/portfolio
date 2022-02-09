@@ -127,6 +127,11 @@ p {
     margin-top: auto;
 }
 
+.skill-logo {
+    background-color: red;
+
+}
+
 .logo {
     background-color: transparent;
     height: 100px;
